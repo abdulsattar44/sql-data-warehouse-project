@@ -108,7 +108,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 Hi there! I'm **Abdul Sattar**, A Data enthusiast with a passion for transforming raw data into actionable insights. Proficient in SQL, R, and data visualization tools like Tableau and Power BI,
-Let's stay in touch! Feel free to connect with me on the following platforms:
+Let's stay in touch! Feel free to connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-sattar-dayo/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://www.datawithbaraa.com](https://abdul-sattar44.quarto.pub/abdul-sattar/))
