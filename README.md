@@ -41,7 +41,7 @@ This project involves:
 - **[Git Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
 - **[Notion](https://www.notion.com/):** All-in-one tool for project management and organization.
-- **[Notion Project Steps](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4):** Access to All Project Phases and Tasks.
+- **[Notion Project Steps](https://full-collision-d9e.notion.site/Data-Warehouse-Project-1b087b210e9980c1bd5bf609ca87ddee?pvs=4):** Access to All Project Phases and Tasks.
 
 ---
 
